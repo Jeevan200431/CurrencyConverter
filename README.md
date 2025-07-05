@@ -2,6 +2,11 @@
 
 A simple and responsive **Currency Converter** web application built using **HTML, CSS, and JavaScript**, powered by the [Frankfurter API](https://www.frankfurter.app/) for real-time exchange rates.
 
+## 🔗 Live Demo
+
+Try it out here 👉 [Currency Converter Live] (https://currency-converter-jeevan-m-rs-projects.vercel.app)
+
+
 ## Features
 
 - Convert between 30+ global currencies
@@ -27,7 +32,6 @@ A simple and responsive **Currency Converter** web application built using **HTM
 ├── home.js  
 ├── codes.js  
 └── README.md  
-
 
 ##  Getting Started
 
