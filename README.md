@@ -21,7 +21,7 @@ A simple and responsive **Currency Converter** web application built using **HTM
 - [FlagsAPI](https://flagsapi.com) for country flags
 
 ## Project Structure
-#CurrencyConverter/
+#CurrencyConverter/  
 ├── index.html  
 ├── style.css  
 ├── home.js  
