@@ -33,8 +33,8 @@ A simple and responsive **Currency Converter** web application built using **HTM
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/Jeevan200431/CurrencyConverter.git
-cd CurrencyConverter
+####git clone https://github.com/Jeevan200431/CurrencyConverter.git
+####cd CurrencyConverter
 
 ---
 ##thank you 
